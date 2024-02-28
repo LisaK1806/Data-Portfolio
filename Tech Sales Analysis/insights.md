@@ -2,9 +2,12 @@
 
 After statistical analysis, basic value parameters such as minimum, maximum and average price and quantity were determined for each product sold during the year. This allowed the total profit on sales to be determined.<br>
 Using the data on sales volume, individual item prices and total profit, an ABC analysis supplemented by XYZ can be performed to identify the products that contribute significantly to total profit. This analysis also measures the consistency of demand for each item, helping to identify products suitable for discontinuation and those requiring targeted marketing efforts to increase sales.<br>
-<b>Time Analysis</b><br>
-Given the different locations and timeframes of sales, it is interesting to examine the distribution of sales across cities and months. Interestingly, the distribution of sales by city is not directly correlated with population size; for example, the highest sales are not in New York, but in San Francisco, possibly influenced by its proximity to Silicon Valley.<br>
+<b>Time and Location Analysis</b><br>
 <img src='charts/pie.png'>
+Given the different locations and timeframes of sales, it is interesting to examine the distribution of sales across cities and months. Interestingly, the distribution of sales by city is not directly correlated with population size; for example, the highest sales are not in New York, but in San Francisco, possibly influenced by its proximity to Silicon Valley.<br>
+<div style='display:flex'>
+<img src='charts/sales2.png'><img src='charts/sales3'>
+</div>
 Examining the data and associated graphs, a pattern emerges: peak sales occur in December, likely fueled by holiday anticipation, with notable activity also observed in October. Conversely, lower sales are recorded during the summer months and in January, possibly influenced by vacation periods and post-holiday financial constraints. This analysis also prompts the exploration of a new hypothesis: the October sales spike may be related to Apple product releases.<br>
 Sales were also analyzed by day of the week to identify peak periods. While the variations are subtle in the graph, Tuesday emerges as the busiest day, followed by a slight uptick on weekends, possibly driven by promotional activity. Another study looked at the timing of peak sales to optimize the launch of temporary ads and promotions. It appears that the majority of sales occur during lunchtime and after work hours, with nighttime sales tapering off as expected.<br>
 
