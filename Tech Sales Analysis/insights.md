@@ -7,7 +7,7 @@ Using the data on sales volume, individual item prices and total profit, an ABC 
 <img src='charts/pie.png'><br>
 Given the different locations and timeframes of sales, it is interesting to examine the distribution of sales across cities and months. Interestingly, the distribution of sales by city is not directly correlated with population size; for example, the highest sales are not in New York, but in San Francisco, possibly influenced by its proximity to Silicon Valley.<br>
 <img src='charts/sales2.png'><br>
-Examining the data and associated graphs, a pattern emerges: peak sales occur in December, likely fueled by holiday anticipation, with notable activity also observed in October. Conversely, lower sales are recorded during the summer months and in January, possibly influenced by vacation periods and post-holiday financial constraints. This analysis also prompts the exploration of a new hypothesis: the October sales spike may be related to Apple product releases.<br>
+Examining the data and associated graphs, a pattern emerges: <b>peak sales occur in December</b>, likely fueled by holiday anticipation, with notable activity <b>also observed in October</b>. Conversely, lower sales are recorded during the summer months and in January, possibly influenced by vacation periods and post-holiday financial constraints. This analysis also prompts the exploration of a new hypothesis: the October sales spike may be related to Apple product releases.<br>
 <img src='charts/sales3.png'><br>
 Sales were also analyzed by day of the week to identify peak periods. While the variations are subtle in the graph, Tuesday emerges as the busiest day, followed by a slight uptick on weekends, possibly driven by promotional activity.<br>
 <img src='charts/sales4.png'><br>
