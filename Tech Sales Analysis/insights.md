@@ -21,9 +21,7 @@ High sales volume does not guarantee high profitability of product sales. Theref
 <img src='charts/sales7.png'>
 
 <h2>ABC analysis and XYZ</h2>
-<div style='display:grid; grid-template-columns:1fr 1fr;'>
 <img src='charts/sales8.png'><img src='charts/sales9.png'>
-</div>
 <p>Using ABC and XYZ analysis, products have been grouped according to their sales performance. The top-performing product, which generates the highest revenue, is the <i>27in FHD Monitor</i>. At present, there are no specific recommendations for this item other than maintaining the current marketing strategy. Generally, products in category A do not require special promotions. Within the same category, there are products with varying demand levels and good contribution margins but relatively unstable demand: <i>AA Batteries (4-pack), USB-C Charging Cable, Apple Airpods Headphones</i>. The main strategy for these items is to increase sales, which necessitates enhancing their visibility to customers. The first two items are primarily accessories, and the most effective way to boost their sales is by offering them as add-ons with related products where appropriate. As for Airpods, featuring them prominently in catalogs could be an effective strategy.</p><br>
 
 <p>The next category consists of items that sell reasonably well but experience sporadic demand, meaning their demand is highly unstable. These include <i>Bose SoundSport Headphones, Wired Headphones, Flatscreen TV, Google Phone, and iPhone</i>. For these items, a suitable strategy would be to fill the storefront on a marketplace with them and/or run promotions featuring them.</p><br>
