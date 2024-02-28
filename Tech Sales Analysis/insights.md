@@ -5,15 +5,19 @@ Using the data on sales volume, individual item prices and total profit, an ABC 
 <b>Time and Location Analysis</b><br>
 <img src='charts/pie.png'>
 Given the different locations and timeframes of sales, it is interesting to examine the distribution of sales across cities and months. Interestingly, the distribution of sales by city is not directly correlated with population size; for example, the highest sales are not in New York, but in San Francisco, possibly influenced by its proximity to Silicon Valley.<br>
-<img src='charts/sales2.png'><img src='charts/sales3.png'>
+<img src='charts/sales2.png'>
 Examining the data and associated graphs, a pattern emerges: peak sales occur in December, likely fueled by holiday anticipation, with notable activity also observed in October. Conversely, lower sales are recorded during the summer months and in January, possibly influenced by vacation periods and post-holiday financial constraints. This analysis also prompts the exploration of a new hypothesis: the October sales spike may be related to Apple product releases.<br>
 <img src='charts/sales3.png'>
-Sales were also analyzed by day of the week to identify peak periods. While the variations are subtle in the graph, Tuesday emerges as the busiest day, followed by a slight uptick on weekends, possibly driven by promotional activity. Another study looked at the timing of peak sales to optimize the launch of temporary ads and promotions. It appears that the majority of sales occur during lunchtime and after work hours, with nighttime sales tapering off as expected.<br>
+Sales were also analyzed by day of the week to identify peak periods. While the variations are subtle in the graph, Tuesday emerges as the busiest day, followed by a slight uptick on weekends, possibly driven by promotional activity.<br>
+<img src='charts/sales4.png'>
+Another study looked at the timing of peak sales to optimize the launch of temporary ads and promotions. It appears that the majority of sales occur during lunchtime and after work hours, with nighttime sales tapering off as expected.<br>
 
 <h6>Hypothesis generation</h6><br>
 1. After conducting basic statistical analysis, it became clear that profit and quantity have an inverse relationship: as profit increases, the number of units sold decreases, and similarly, higher prices correspond to fewer units sold. This observation supports the theory that fewer sales can lead to greater profit due to the effect of higher prices. Further testing is warranted to validate this theory.<br>
+<img src='charts/salels5.png'>
 High sales volume does not guarantee high profitability of product sales. Therefore, an analysis was conducted to examine the relationship between sales volume and price for each product. It was found that low prices lead to high sales volume, while high prices lead to low sales volume. In addition, it is important to consider that products vary; accessories and batteries typically have low prices, while electronics have higher prices. In addition, accessories are more prone to breakage and loss and are generally always in demand. When comparing volume and profit for each product, it was found that products with higher prices generated the highest profit, while those with high volume generated lower profit.<br>
 2. In analyzing the sales of Apple products, it was found that Apple products experience a peak in sales in December and October. October marks the annual release of new models after the September presentation, which may explain this trend.<br>
+<img src='charts/sales7.png'>
 
 <h2>ABC analysis and XYZ</h2>
 
