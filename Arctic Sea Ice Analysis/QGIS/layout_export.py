@@ -3,13 +3,13 @@ import os
 from qgis.core import QgsLayoutExporter, QgsMapLayer, QgsProject
 
 # Load the existing QGIS project where all rasters & vector layers are styled
-project_path = "/path/project.qgz" #rename
+project_path = "/Users/Liza/Documents/my_data/environmental/Sea Ice/fraction_area/globe.qgz"
 project = QgsProject.instance()
 project.read(project_path)
 
 # Get the layout (Make sure this exists in your QGIS project)
 layout_manager = project.layoutManager()
-layout = layout_manager.layoutByName("Layout_Name") #rename layout
+layout = layout_manager.layoutByName("ice_area")
 
 # Get the root layer tree (to control visibility)
 root = project.layerTreeRoot()
@@ -29,7 +29,7 @@ vector_layers = [
 ]
 
 # Set output directory for exported images
-output_folder = "desired_output_directory"
+output_folder = "/Users/Liza/Documents/my_data/environmental/Sea Ice/fraction_area/style"
 os.makedirs(output_folder, exist_ok=True)
 
 # Loop through all raster layers and export one at a time
