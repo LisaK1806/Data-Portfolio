@@ -30,3 +30,17 @@
 <li><a href='https://github.com/ElizavetK/Data-Portfolio/blob/main/Bike%20share%20analysis/Dashboard.pdf'>Dashboard</a></li>
 <li><a href='https://public.tableau.com/views/CasestudyBike-ShareanalysisGoogleDataAnalystCertification/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'>Tableu</a></li>
 </ul>
+
+<h2><b>Arctic Ice Sea Analysis</b></h2>
+<b>Goal: Prepare data visualizations for the UN Ocean Conference (UNOC) using data from the Copernicus Marine Service</b>
+
+<b>Code</b>: <a href="https://github.com/ElizavetK/Data-Portfolio/tree/main/Arctic%20Sea%20Ice%20Analysis">Arctic Sea Analysis</a>
+
+<b>Description</b>: Analysis of changes in Arctic Sea ice extent over the past 30 years, comparing past and present conditions, with a focus on ice thickness variation by latitude and the evolution of ice area from 1993 to 2023.
+
+<b>Skills</b>: data analysis, data visualization
+<b>Technology</b>: python, QGIS, Photoshop, Adobe Premiere
+
+<b>Results</b>:
+<li><a href="">Data visualization</a></li>
+<li><a href="https://youtu.be/gRNOyYd1a5o">Youtube video</a></li>
