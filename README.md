@@ -45,3 +45,5 @@
 <b>Results</b>:
 <li><a href="https://github.com/ElizavetK/Data-Portfolio/tree/main/Arctic%20Sea%20Ice%20Analysis/visualization">Data visualization</a></li>
 <li><a href="https://youtu.be/gRNOyYd1a5o">Youtube video</a></li>
+
+More: <a href="https://github.com/LisaK1806/Geo/tree/main/QGIS/Challenge">QGIS and GeoPandas</a>
