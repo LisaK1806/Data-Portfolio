@@ -1,0 +1,211 @@
+Provincia de residencia,Causas (lista reducida),Sexo,Edad,Total,Tipo de causa,Enfermedad
+Comunitat Valenciana,00A Covid-19 Virus identificado,Hombres,Todas las edades,262,Infecciosas,COVID
+Comunitat Valenciana,00A Covid-19 Virus identificado,Mujeres,Todas las edades,207,Infecciosas,COVID
+Comunitat Valenciana,00B Covid-19 Virus no identificado (sospechoso),Hombres,Todas las edades,0,Infecciosas,COVID
+Comunitat Valenciana,00B Covid-19 Virus no identificado (sospechoso),Mujeres,Todas las edades,0,Infecciosas,COVID
+Comunitat Valenciana,"00C Síndrome inflamatorio multisistémico asociado con COVID-19, no especificado",Hombres,Todas las edades,0,Infecciosas,COVID
+Comunitat Valenciana,"00C Síndrome inflamatorio multisistémico asociado con COVID-19, no especificado",Mujeres,Todas las edades,0,Infecciosas,COVID
+Comunitat Valenciana,001 Enfermedades infecciosas intestinales,Hombres,Todas las edades,50,Infecciosas,Infeccion intestinal
+Comunitat Valenciana,001 Enfermedades infecciosas intestinales,Mujeres,Todas las edades,68,Infecciosas,Infeccion intestinal
+Comunitat Valenciana,002 Tuberculosis y sus efectos tardíos,Hombres,Todas las edades,13,Infecciosas,Tuberculosis
+Comunitat Valenciana,002 Tuberculosis y sus efectos tardíos,Mujeres,Todas las edades,6,Infecciosas,Tuberculosis
+Comunitat Valenciana,003 Enfermedad meningocócica,Hombres,Todas las edades,1,Infecciosas,Meningococa
+Comunitat Valenciana,003 Enfermedad meningocócica,Mujeres,Todas las edades,1,Infecciosas,Meningococa
+Comunitat Valenciana,004 Septicemia,Hombres,Todas las edades,175,Infecciosas,Septicemia
+Comunitat Valenciana,004 Septicemia,Mujeres,Todas las edades,198,Infecciosas,Septicemia
+Comunitat Valenciana,005 Hepatitis vírica,Hombres,Todas las edades,22,Infecciosas,Hepatitis
+Comunitat Valenciana,005 Hepatitis vírica,Mujeres,Todas las edades,13,Infecciosas,Hepatitis
+Comunitat Valenciana,006 SIDA,Hombres,Todas las edades,30,Infecciosas,SIDA
+Comunitat Valenciana,006 SIDA,Mujeres,Todas las edades,7,Infecciosas,SIDA
+Comunitat Valenciana,"007 VIH+ (portador, evidencias de laboratorio del VIH,...)",Hombres,Todas las edades,0,Infecciosas,VIH+
+Comunitat Valenciana,"007 VIH+ (portador, evidencias de laboratorio del VIH,...)",Mujeres,Todas las edades,0,Infecciosas,VIH+
+Comunitat Valenciana,008 Resto de enfermedades infecciosas y parasitarias y sus efectos tardíos,Hombres,Todas las edades,87,Infecciosas,Resto infeccion
+Comunitat Valenciana,008 Resto de enfermedades infecciosas y parasitarias y sus efectos tardíos,Mujeres,Todas las edades,92,Infecciosas,Resto infeccion
+Comunitat Valenciana,"009 Tumor maligno del labio, de la cavidad bucal y de la faringe",Hombres,Todas las edades,165,Tumores,Tumor bucal
+Comunitat Valenciana,"009 Tumor maligno del labio, de la cavidad bucal y de la faringe",Mujeres,Todas las edades,71,Tumores,Tumor bucal
+Comunitat Valenciana,010 Tumor maligno del esófago,Hombres,Todas las edades,160,Tumores,Tumor esofago
+Comunitat Valenciana,010 Tumor maligno del esófago,Mujeres,Todas las edades,45,Tumores,Tumor esofago
+Comunitat Valenciana,011 Tumor maligno del estómago,Hombres,Todas las edades,291,Tumores,Tumor estomago
+Comunitat Valenciana,011 Tumor maligno del estómago,Mujeres,Todas las edades,186,Tumores,Tumor estomago
+Comunitat Valenciana,012 Tumor maligno del colon,Hombres,Todas las edades,702,Tumores,Tumor colon
+Comunitat Valenciana,012 Tumor maligno del colon,Mujeres,Todas las edades,529,Tumores,Tumor colon
+Comunitat Valenciana,"013 Tumor maligno del recto, de la porción rectosigmoide y del ano",Hombres,Todas las edades,278,Tumores,Tumor recto
+Comunitat Valenciana,"013 Tumor maligno del recto, de la porción rectosigmoide y del ano",Mujeres,Todas las edades,166,Tumores,Tumor recto
+Comunitat Valenciana,014 Tumor maligno del hígado y vías biliares intrahepáticas,Hombres,Todas las edades,380,Tumores,Tumor higado
+Comunitat Valenciana,014 Tumor maligno del hígado y vías biliares intrahepáticas,Mujeres,Todas las edades,176,Tumores,Tumor higado
+Comunitat Valenciana,015 Tumor maligno del páncreas,Hombres,Todas las edades,470,Tumores,Tumor pancreas
+Comunitat Valenciana,015 Tumor maligno del páncreas,Mujeres,Todas las edades,424,Tumores,Tumor pancreas
+Comunitat Valenciana,016 Otros tumores malignos digestivos,Hombres,Todas las edades,146,Tumores,Tumor sistema digestivo
+Comunitat Valenciana,016 Otros tumores malignos digestivos,Mujeres,Todas las edades,111,Tumores,Tumor sistema digestivo
+Comunitat Valenciana,017 Tumor maligno de la laringe,Hombres,Todas las edades,113,Tumores,Tumor laringe
+Comunitat Valenciana,017 Tumor maligno de la laringe,Mujeres,Todas las edades,9,Tumores,Tumor laringe
+Comunitat Valenciana,"018 Tumor maligno de la tráquea, de los bronquios y del pulmón",Hombres,Todas las edades,1833,Tumores,Tumor pulmon
+Comunitat Valenciana,"018 Tumor maligno de la tráquea, de los bronquios y del pulmón",Mujeres,Todas las edades,781,Tumores,Tumor pulmon
+Comunitat Valenciana,019 Otros tumores malignos respiratorios e intratorácicos,Hombres,Todas las edades,38,Tumores,Tumor respiratorio
+Comunitat Valenciana,019 Otros tumores malignos respiratorios e intratorácicos,Mujeres,Todas las edades,25,Tumores,Tumor respiratorio
+Comunitat Valenciana,020 Tumores malignos del hueso y de los cartílagos articulares,Hombres,Todas las edades,21,Tumores,Tumor hueso
+Comunitat Valenciana,020 Tumores malignos del hueso y de los cartílagos articulares,Mujeres,Todas las edades,11,Tumores,Tumor hueso
+Comunitat Valenciana,021 Melanoma maligno de la piel,Hombres,Todas las edades,72,Tumores,Melanoma
+Comunitat Valenciana,021 Melanoma maligno de la piel,Mujeres,Todas las edades,59,Tumores,Melanoma
+Comunitat Valenciana,022 Otros tumores malignos de la piel y de los tejidos blandos,Hombres,Todas las edades,125,Tumores,Tumor piel
+Comunitat Valenciana,022 Otros tumores malignos de la piel y de los tejidos blandos,Mujeres,Todas las edades,67,Tumores,Tumor piel
+Comunitat Valenciana,023 Tumor maligno de la mama,Hombres,Todas las edades,15,Tumores,Tumor mama
+Comunitat Valenciana,023 Tumor maligno de la mama,Mujeres,Todas las edades,716,Tumores,Tumor mama
+Comunitat Valenciana,024 Tumor maligno del cuello del útero,Hombres,Todas las edades,0,Tumores,Tumor cuello utero
+Comunitat Valenciana,024 Tumor maligno del cuello del útero,Mujeres,Todas las edades,79,Tumores,Tumor cuello utero
+Comunitat Valenciana,025 Tumor maligno de otras partes del útero,Hombres,Todas las edades,0,Tumores,Tumor utero
+Comunitat Valenciana,025 Tumor maligno de otras partes del útero,Mujeres,Todas las edades,163,Tumores,Tumor utero
+Comunitat Valenciana,026 Tumor maligno del ovario,Hombres,Todas las edades,0,Tumores,Tumor ovario
+Comunitat Valenciana,026 Tumor maligno del ovario,Mujeres,Todas las edades,211,Tumores,Tumor ovario
+Comunitat Valenciana,027 Tumores malignos de otros órganos genitales femeninos,Hombres,Todas las edades,0,Tumores,Tumor femenino
+Comunitat Valenciana,027 Tumores malignos de otros órganos genitales femeninos,Mujeres,Todas las edades,62,Tumores,Tumor femenino
+Comunitat Valenciana,028 Tumor maligno de la próstata,Hombres,Todas las edades,632,Tumores,Tumor prostata
+Comunitat Valenciana,028 Tumor maligno de la próstata,Mujeres,Todas las edades,0,Tumores,Tumor prostata
+Comunitat Valenciana,029 Tumores malignos de otros órganos genitales masculinos,Hombres,Todas las edades,22,Tumores,Tumor masculino
+Comunitat Valenciana,029 Tumores malignos de otros órganos genitales masculinos,Mujeres,Todas las edades,0,Tumores,Tumor masculino
+Comunitat Valenciana,"030 Tumor maligno del riñón, excepto pelvis renal",Hombres,Todas las edades,149,Tumores,Tumor riñon
+Comunitat Valenciana,"030 Tumor maligno del riñón, excepto pelvis renal",Mujeres,Todas las edades,51,Tumores,Tumor riñon
+Comunitat Valenciana,031 Tumor maligno de la vejiga,Hombres,Todas las edades,378,Tumores,Tumor vejiga
+Comunitat Valenciana,031 Tumor maligno de la vejiga,Mujeres,Todas las edades,102,Tumores,Tumor vejiga
+Comunitat Valenciana,032 Otros tumores malignos de las vías urinarias,Hombres,Todas las edades,154,Tumores,Tumor urinario
+Comunitat Valenciana,032 Otros tumores malignos de las vías urinarias,Mujeres,Todas las edades,51,Tumores,Tumor urinario
+Comunitat Valenciana,033 Tumor maligno del encéfalo,Hombres,Todas las edades,200,Tumores,Tumor encefalo
+Comunitat Valenciana,033 Tumor maligno del encéfalo,Mujeres,Todas las edades,184,Tumores,Tumor encefalo
+Comunitat Valenciana,034 Otros tumores malignos neurológicos y endocrinos,Hombres,Todas las edades,26,Tumores,Tumor neurologico
+Comunitat Valenciana,034 Otros tumores malignos neurológicos y endocrinos,Mujeres,Todas las edades,34,Tumores,Tumor neurologico
+Comunitat Valenciana,"035 Tumor maligno de sitios mal definidos, secundarios y de sitios no especificados",Hombres,Todas las edades,193,Tumores,Tumor segundario
+Comunitat Valenciana,"035 Tumor maligno de sitios mal definidos, secundarios y de sitios no especificados",Mujeres,Todas las edades,183,Tumores,Tumor segundario
+Comunitat Valenciana,"036 Tumores malignos del tejido linfático, de los órganos hematopoyéticos y de tejidos afines, excepto leucemia",Hombres,Todas las edades,251,Tumores,Tumor linfatico
+Comunitat Valenciana,"036 Tumores malignos del tejido linfático, de los órganos hematopoyéticos y de tejidos afines, excepto leucemia",Mujeres,Todas las edades,218,Tumores,Tumor linfatico
+Comunitat Valenciana,037 Leucemia,Hombres,Todas las edades,213,Tumores,Leucemia
+Comunitat Valenciana,037 Leucemia,Mujeres,Todas las edades,158,Tumores,Leucemia
+Comunitat Valenciana,038 Tumores in situ,Hombres,Todas las edades,1,Tumores,Tumor
+Comunitat Valenciana,038 Tumores in situ,Mujeres,Todas las edades,0,Tumores,Tumor
+Comunitat Valenciana,039 Tumores benignos,Hombres,Todas las edades,30,Tumores,Benignos
+Comunitat Valenciana,039 Tumores benignos,Mujeres,Todas las edades,28,Tumores,Benignos
+Comunitat Valenciana,040 Síndrome mielodisplásico,Hombres,Todas las edades,63,Tumores,Tumor medla osea
+Comunitat Valenciana,040 Síndrome mielodisplásico,Mujeres,Todas las edades,50,Tumores,Tumor medla osea
+Comunitat Valenciana,041 Otros tumores de comportamiento incierto o desconocido,Hombres,Todas las edades,181,Tumores,Tumor desconocido
+Comunitat Valenciana,041 Otros tumores de comportamiento incierto o desconocido,Mujeres,Todas las edades,112,Tumores,Tumor desconocido
+Comunitat Valenciana,042 Enfermedades de la sangre y de los órganos hematopoyéticos,Hombres,Todas las edades,71,Enfermedades de sangre,Enfermedades de sangre
+Comunitat Valenciana,042 Enfermedades de la sangre y de los órganos hematopoyéticos,Mujeres,Todas las edades,116,Enfermedades de sangre,Enfermedades de sangre
+Comunitat Valenciana,043 Ciertos trastornos que afectan al mecanismo de la inmunidad,Hombres,Todas las edades,6,Enfermedades de sangre,Enfermedades de sangre
+Comunitat Valenciana,043 Ciertos trastornos que afectan al mecanismo de la inmunidad,Mujeres,Todas las edades,10,Enfermedades de sangre,Enfermedades de sangre
+Comunitat Valenciana,044 Diabetes mellitus,Hombres,Todas las edades,602,Endocrinas,Diabetes
+Comunitat Valenciana,044 Diabetes mellitus,Mujeres,Todas las edades,760,Endocrinas,Diabetes
+Comunitat Valenciana,"045 Otras enfermedades endocrinas, nutricionales y metabólicas",Hombres,Todas las edades,212,Endocrinas,Otro endocrino
+Comunitat Valenciana,"045 Otras enfermedades endocrinas, nutricionales y metabólicas",Mujeres,Todas las edades,351,Endocrinas,Otro endocrino
+Comunitat Valenciana,"046 Trastornos mentales orgánicos, senil y presenil",Hombres,Todas las edades,665,Mental,Trastorno mental
+Comunitat Valenciana,"046 Trastornos mentales orgánicos, senil y presenil",Mujeres,Todas las edades,1221,Mental,Trastorno mental
+Comunitat Valenciana,047 Trastornos mentales debidos al uso de alcohol,Hombres,Todas las edades,23,Mental,Alcohol
+Comunitat Valenciana,047 Trastornos mentales debidos al uso de alcohol,Mujeres,Todas las edades,3,Mental,Alcohol
+Comunitat Valenciana,"048 Trastornos mentales debidos al uso de drogas (drogodependencia, toxicomanía)",Hombres,Todas las edades,5,Mental,Drogas
+Comunitat Valenciana,"048 Trastornos mentales debidos al uso de drogas (drogodependencia, toxicomanía)",Mujeres,Todas las edades,1,Mental,Drogas
+Comunitat Valenciana,049 Otros trastornos mentales y del comportamiento,Hombres,Todas las edades,23,Mental,Resto mentales
+Comunitat Valenciana,049 Otros trastornos mentales y del comportamiento,Mujeres,Todas las edades,21,Mental,Resto mentales
+Comunitat Valenciana,050 Meningitis (otras en 003),Hombres,Todas las edades,7,Sistema Nervioso,Meningitis
+Comunitat Valenciana,050 Meningitis (otras en 003),Mujeres,Todas las edades,7,Sistema Nervioso,Meningitis
+Comunitat Valenciana,051 Enfermedad de Alzheimer,Hombres,Todas las edades,569,Sistema Nervioso,Alzheimer
+Comunitat Valenciana,051 Enfermedad de Alzheimer,Mujeres,Todas las edades,1339,Sistema Nervioso,Alzheimer
+Comunitat Valenciana,052 Otras enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,Todas las edades,748,Sistema Nervioso,Resto mentales
+Comunitat Valenciana,052 Otras enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,Todas las edades,645,Sistema Nervioso,Resto mentales
+Comunitat Valenciana,053 Enfermedades cardíacas reumáticas crónicas,Hombres,Todas las edades,29,Cardiacas y circulatorio,cardiacas cronicas
+Comunitat Valenciana,053 Enfermedades cardíacas reumáticas crónicas,Mujeres,Todas las edades,86,Cardiacas y circulatorio,cardiacas cronicas
+Comunitat Valenciana,054 Enfermedades hipertensivas,Hombres,Todas las edades,609,Cardiacas y circulatorio,Hipertensivas
+Comunitat Valenciana,054 Enfermedades hipertensivas,Mujeres,Todas las edades,1145,Cardiacas y circulatorio,Hipertensivas
+Comunitat Valenciana,055 Infarto agudo de miocardio,Hombres,Todas las edades,808,Cardiacas y circulatorio,Infarto
+Comunitat Valenciana,055 Infarto agudo de miocardio,Mujeres,Todas las edades,438,Cardiacas y circulatorio,Infarto
+Comunitat Valenciana,056 Otras enfermedades isquémicas del corazón,Hombres,Todas las edades,1140,Cardiacas y circulatorio,Isquemicas del corazon
+Comunitat Valenciana,056 Otras enfermedades isquémicas del corazón,Mujeres,Todas las edades,653,Cardiacas y circulatorio,Isquemicas del corazon
+Comunitat Valenciana,057 Insuficiencia cardíaca,Hombres,Todas las edades,773,Cardiacas y circulatorio,Insuficiencia cardiaca
+Comunitat Valenciana,057 Insuficiencia cardíaca,Mujeres,Todas las edades,991,Cardiacas y circulatorio,Insuficiencia cardiaca
+Comunitat Valenciana,058 Otras enfermedades del corazón,Hombres,Todas las edades,1164,Cardiacas y circulatorio,resto enfermedades de corazon
+Comunitat Valenciana,058 Otras enfermedades del corazón,Mujeres,Todas las edades,1378,Cardiacas y circulatorio,resto enfermedades de corazon
+Comunitat Valenciana,059 Enfermedades cerebrovasculares,Hombres,Todas las edades,1095,Cardiacas y circulatorio,cerebrovasculares
+Comunitat Valenciana,059 Enfermedades cerebrovasculares,Mujeres,Todas las edades,1294,Cardiacas y circulatorio,cerebrovasculares
+Comunitat Valenciana,060 Aterosclerosis,Hombres,Todas las edades,85,Cardiacas y circulatorio,aterosclerosis
+Comunitat Valenciana,060 Aterosclerosis,Mujeres,Todas las edades,137,Cardiacas y circulatorio,aterosclerosis
+Comunitat Valenciana,061 Otras enfermedades de los vasos sanguíneos,Hombres,Todas las edades,357,Cardiacas y circulatorio,resto vasos sanguineos
+Comunitat Valenciana,061 Otras enfermedades de los vasos sanguíneos,Mujeres,Todas las edades,171,Cardiacas y circulatorio,resto vasos sanguineos
+Comunitat Valenciana,062 Influenza (gripe) (incluye gripe por virus de la influenza pandémica o zoonótica identificados),Hombres,Todas las edades,94,Respiratoria,Gripe
+Comunitat Valenciana,062 Influenza (gripe) (incluye gripe por virus de la influenza pandémica o zoonótica identificados),Mujeres,Todas las edades,126,Respiratoria,Gripe
+Comunitat Valenciana,063 Neumonía,Hombres,Todas las edades,640,Respiratoria,Neumonia
+Comunitat Valenciana,063 Neumonía,Mujeres,Todas las edades,523,Respiratoria,Neumonia
+Comunitat Valenciana,064 Enfermedades crónicas de las vías respiratorias inferiores (excepto asma),Hombres,Todas las edades,891,Respiratoria,Cronicas respiratorias
+Comunitat Valenciana,064 Enfermedades crónicas de las vías respiratorias inferiores (excepto asma),Mujeres,Todas las edades,331,Respiratoria,Cronicas respiratorias
+Comunitat Valenciana,065 Asma,Hombres,Todas las edades,21,Respiratoria,Asma
+Comunitat Valenciana,065 Asma,Mujeres,Todas las edades,50,Respiratoria,Asma
+Comunitat Valenciana,066 Insuficiencia respiratoria,Hombres,Todas las edades,41,Respiratoria,Insuficiencias respiratoria
+Comunitat Valenciana,066 Insuficiencia respiratoria,Mujeres,Todas las edades,61,Respiratoria,Insuficiencias respiratoria
+Comunitat Valenciana,067 Otras enfermedades del sistema respiratorio,Hombres,Todas las edades,868,Respiratoria,Resto respiratorios
+Comunitat Valenciana,067 Otras enfermedades del sistema respiratorio,Mujeres,Todas las edades,913,Respiratoria,Resto respiratorios
+Comunitat Valenciana,"068 Úlcera de estómago, duodeno y yeyuno",Hombres,Todas las edades,38,Digestivo,Ulcera de estomago
+Comunitat Valenciana,"068 Úlcera de estómago, duodeno y yeyuno",Mujeres,Todas las edades,25,Digestivo,Ulcera de estomago
+Comunitat Valenciana,069 Enteritis y colitis no infecciosas,Hombres,Todas las edades,15,Digestivo,enteritis
+Comunitat Valenciana,069 Enteritis y colitis no infecciosas,Mujeres,Todas las edades,24,Digestivo,enteritis
+Comunitat Valenciana,070 Enfermedad vascular intestinal,Hombres,Todas las edades,109,Digestivo,vascular itestinal
+Comunitat Valenciana,070 Enfermedad vascular intestinal,Mujeres,Todas las edades,139,Digestivo,vascular itestinal
+Comunitat Valenciana,071 Cirrosis y otras enfermedades crónicas del hígado,Hombres,Todas las edades,344,Digestivo,Cirrosis
+Comunitat Valenciana,071 Cirrosis y otras enfermedades crónicas del hígado,Mujeres,Todas las edades,132,Digestivo,Cirrosis
+Comunitat Valenciana,072 Otras enfermedades del sistema digestivo,Hombres,Todas las edades,682,Digestivo,Resto digestivo
+Comunitat Valenciana,072 Otras enfermedades del sistema digestivo,Mujeres,Todas las edades,790,Digestivo,Resto digestivo
+Comunitat Valenciana,073 XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,Todas las edades,94,Piel,Piel
+Comunitat Valenciana,073 XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,Todas las edades,161,Piel,Piel
+Comunitat Valenciana,074 Artritis reumatoide y osteoartrosis,Hombres,Todas las edades,10,Piel,artritis
+Comunitat Valenciana,074 Artritis reumatoide y osteoartrosis,Mujeres,Todas las edades,22,Piel,artritis
+Comunitat Valenciana,075 Osteoporosis y fractura patológica,Hombres,Todas las edades,110,Piel,osteoporosis
+Comunitat Valenciana,075 Osteoporosis y fractura patológica,Mujeres,Todas las edades,214,Piel,osteoporosis
+Comunitat Valenciana,076 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,Todas las edades,89,Piel,resto osteomuculares
+Comunitat Valenciana,076 Otras enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,Todas las edades,95,Piel,resto osteomuculares
+Comunitat Valenciana,077 Enfermedades del riñón y del uréter,Hombres,Todas las edades,484,Genitourinario,Riñon
+Comunitat Valenciana,077 Enfermedades del riñón y del uréter,Mujeres,Todas las edades,533,Genitourinario,Riñon
+Comunitat Valenciana,078 Enfermedades de los órganos genitales masculinos,Hombres,Todas las edades,45,Genitourinario,Organos masculinos
+Comunitat Valenciana,078 Enfermedades de los órganos genitales masculinos,Mujeres,Todas las edades,0,Genitourinario,Organos masculinos
+Comunitat Valenciana,079 Enfermedades de los órganos genitales femeninos y trastornos de la mama,Hombres,Todas las edades,0,Genitourinario,Organos femeninas
+Comunitat Valenciana,079 Enfermedades de los órganos genitales femeninos y trastornos de la mama,Mujeres,Todas las edades,9,Genitourinario,Organos femeninas
+Comunitat Valenciana,080 Otras enfermedades del sistema genitourinario,Hombres,Todas las edades,397,Genitourinario,resto genitourinarios
+Comunitat Valenciana,080 Otras enfermedades del sistema genitourinario,Mujeres,Todas las edades,585,Genitourinario,resto genitourinarios
+Comunitat Valenciana,"081 XV.Embarazo, parto y puerperio",Hombres,Todas las edades,0,Embarazo y parto,embarazo
+Comunitat Valenciana,"081 XV.Embarazo, parto y puerperio",Mujeres,Todas las edades,1,Embarazo y parto,embarazo
+Comunitat Valenciana,082 XVI.Afecciones originadas en el periodo perinatal,Hombres,Todas las edades,36,Periodo perinatal,periodo perinatal
+Comunitat Valenciana,082 XVI.Afecciones originadas en el periodo perinatal,Mujeres,Todas las edades,28,Periodo perinatal,periodo perinatal
+Comunitat Valenciana,083 Malformaciones congénitas del sistema nervioso,Hombres,Todas las edades,7,Malformaciones y anomalias,malformacion en sis nerviosa
+Comunitat Valenciana,083 Malformaciones congénitas del sistema nervioso,Mujeres,Todas las edades,2,Malformaciones y anomalias,malformacion en sis nerviosa
+Comunitat Valenciana,084 Malformaciones congénitas del sistema circulatorio,Hombres,Todas las edades,13,Malformaciones y anomalias,malformacion en circulatorio
+Comunitat Valenciana,084 Malformaciones congénitas del sistema circulatorio,Mujeres,Todas las edades,18,Malformaciones y anomalias,malformacion en circulatorio
+Comunitat Valenciana,"085 Otras malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,Todas las edades,32,Malformaciones y anomalias,otras malformaciones
+Comunitat Valenciana,"085 Otras malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,Todas las edades,26,Malformaciones y anomalias,otras malformaciones
+Comunitat Valenciana,"086 Paro cardíaco, muerte sin asistencia y otra causa desconocida de mortalidad",Hombres,Todas las edades,99,Desconocida,paro cardiaco
+Comunitat Valenciana,"086 Paro cardíaco, muerte sin asistencia y otra causa desconocida de mortalidad",Mujeres,Todas las edades,90,Desconocida,paro cardiaco
+Comunitat Valenciana,087 Senilidad,Hombres,Todas las edades,52,Desconocida,senilidad
+Comunitat Valenciana,087 Senilidad,Mujeres,Todas las edades,95,Desconocida,senilidad
+Comunitat Valenciana,088 Muerte súbita infantil,Hombres,Todas las edades,0,Desconocida,Desconocida infantil
+Comunitat Valenciana,088 Muerte súbita infantil,Mujeres,Todas las edades,0,Desconocida,Desconocida infantil
+Comunitat Valenciana,"089 Resto de síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,Todas las edades,135,Desconocida,resto desconocido
+Comunitat Valenciana,"089 Resto de síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,Todas las edades,116,Desconocida,resto desconocido
+Comunitat Valenciana,090 Accidentes de tráfico,Hombres,Todas las edades,143,Causas externas,Trafico
+Comunitat Valenciana,090 Accidentes de tráfico,Mujeres,Todas las edades,26,Causas externas,Trafico
+Comunitat Valenciana,091 Otros accidentes de transporte,Hombres,Todas las edades,15,Causas externas,Transporte
+Comunitat Valenciana,091 Otros accidentes de transporte,Mujeres,Todas las edades,2,Causas externas,Transporte
+Comunitat Valenciana,092 Caídas accidentales,Hombres,Todas las edades,210,Causas externas,Caidas
+Comunitat Valenciana,092 Caídas accidentales,Mujeres,Todas las edades,160,Causas externas,Caidas
+Comunitat Valenciana,"093 Ahogamiento, sumersión y sofocación accidentales",Hombres,Todas las edades,229,Causas externas,Ahogamiento
+Comunitat Valenciana,"093 Ahogamiento, sumersión y sofocación accidentales",Mujeres,Todas las edades,205,Causas externas,Ahogamiento
+Comunitat Valenciana,"094 Accidentes por fuego, humo y sustancias calientes",Hombres,Todas las edades,23,Causas externas,Fuego
+Comunitat Valenciana,"094 Accidentes por fuego, humo y sustancias calientes",Mujeres,Todas las edades,16,Causas externas,Fuego
+Comunitat Valenciana,095 Envenenamiento accidental por psicofármacos y drogas de abuso,Hombres,Todas las edades,42,Causas externas,Eveneamiento drogas
+Comunitat Valenciana,095 Envenenamiento accidental por psicofármacos y drogas de abuso,Mujeres,Todas las edades,29,Causas externas,Eveneamiento drogas
+Comunitat Valenciana,096 Otros envenenamientos accidentales,Hombres,Todas las edades,9,Causas externas,Otras enveneamient
+Comunitat Valenciana,096 Otros envenenamientos accidentales,Mujeres,Todas las edades,3,Causas externas,Otras enveneamient
+Comunitat Valenciana,097 Otros accidentes,Hombres,Todas las edades,255,Causas externas,Accidentes
+Comunitat Valenciana,097 Otros accidentes,Mujeres,Todas las edades,152,Causas externas,Accidentes
+Comunitat Valenciana,098 Suicidio y lesiones autoinfligidas,Hombres,Todas las edades,301,Causas externas,Suicidio
+Comunitat Valenciana,098 Suicidio y lesiones autoinfligidas,Mujeres,Todas las edades,120,Causas externas,Suicidio
+Comunitat Valenciana,099  Agresiones (Homicidio),Hombres,Todas las edades,33,Causas externas,Agresiones
+Comunitat Valenciana,099  Agresiones (Homicidio),Mujeres,Todas las edades,13,Causas externas,Agresiones
+Comunitat Valenciana,100 Eventos de intención no determinada,Hombres,Todas las edades,10,Causas externas,No determinadas
+Comunitat Valenciana,100 Eventos de intención no determinada,Mujeres,Todas las edades,5,Causas externas,No determinadas
+Comunitat Valenciana,101 Complicaciones de la atención médica y quirúrgica,Hombres,Todas las edades,8,Causas externas,Complicacion quirurgica
+Comunitat Valenciana,101 Complicaciones de la atención médica y quirúrgica,Mujeres,Todas las edades,5,Causas externas,Complicacion quirurgica
+Comunitat Valenciana,102 Otras causas externas y sus efectos tardíos,Hombres,Todas las edades,1,Causas externas,Efectos tardios
+Comunitat Valenciana,102 Otras causas externas y sus efectos tardíos,Mujeres,Todas las edades,2,Causas externas,Efectos tardios
